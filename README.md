@@ -22,12 +22,12 @@
 13. Server Images as Code
 14. Building Cluster as Code
 
-IV. Designing for Modularity
+### IV. Designing for Modularity
 15. Core Practice: Small, Simple Pieces
 16. Building Stacks from Components
 17. Using Stacks as Components
 
-V. Delivering Infrastrucuture
+### V. Delivering Infrastrucuture
 18. Organizing Infrastructure as Code
 19. Delivering Infrastrucutre Code
 20. Team Workflows
