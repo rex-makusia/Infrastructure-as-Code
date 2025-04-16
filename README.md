@@ -3,10 +3,10 @@
 ## Contents
 
 ###  Part I. Foundations
-1. What is Infrastructure as Code ?
-2. Principles of Cloud Age Infrastructure
-3. Infrastructure Platforms
-4. Core Practice: Define Everything as Code
+1. [What is Infrastructure as Code ?](Notes-1-1.md)
+2. [Principles of Cloud Age Infrastructure](Notes-1-2.md)
+3. [Infrastructure Platforms](Notes-1-3.md)
+4. [Core Practice: Define Everything as Code](Notes-1-4.md)
      
 ### Part II. Working with Infrastructure Stacks
 5. Building Infrastrucutre Stack as Code
