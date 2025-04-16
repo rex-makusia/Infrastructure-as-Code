@@ -11,4 +11,5 @@
 
  ### Infrastructure as Code
  - ***Infrastructure as Code*** is the practice of provisionig and managing infrastructure using code rather than command-line tools or ClickOps GUIs.
+ - Infrastructure as Code is more than the mechanics of how infrastructure is defined and provisioned.
  - 
