@@ -24,14 +24,15 @@ Table 1-1. Technology changes in the Cloud Age
 |                      |                      |                            |
 
 Table 1-2. Ways of working in the Iron Age and the Cloud Age
-|                      |            Iron Age                      |           Cloud Age                |
-|:-------------------- |:-----------------------------------------|:-----------------------------------|
-| Cost of change       | High                                     | Low                                |
-| Changes are          | Risk to be minimized                     | Essential to improve quality       |
-| Optimize to          | Reduced opportunities to failed          | Maximize speed of improvement      |
-| Delivery approach    | Large batches, test at end               | Small changes, test continually    |
-| Archiectures         | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |
-|                      |                                          |                                    |
+|                                |            Iron Age                      |           Cloud Age                |
+|:-------------------------------|:-----------------------------------------|:-----------------------------------|
+| Cost of change                 | High                                     | Low                                |
+| Changes are                    | Risk to be minimized                     | Essential to improve quality       |
+| A change of plan means         | Failure of planning                      | Success in learning and improving  |
+| Optimize to                    | Reduced opportunities to failed          | Maximize speed of improvement      |
+| Delivery approach              | Large batches, test at end               | Small changes, test continually    |
+| Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |
+|                                |                                          |                                    |
 
 - **DevOps** is, first and foremost, about people,culture and ways of working. Tools and practices like Infrastructure as Code are vaiablue to the extent that they bridge gaps and improve collaboration, but they aren't enough.
 
