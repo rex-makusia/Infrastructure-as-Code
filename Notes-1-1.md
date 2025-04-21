@@ -15,7 +15,7 @@
 
 
 ### From the Iron Age to the Cloud Age
-Table 1-1. Technoloy changes in the Cloud Age
+Table 1-1. Technology changes in the Cloud Age
 |                      | Iron Age             | Cloud Age                  |
 |:-------------------- |:---------------------|:---------------------------|
 | Types of resources   | Physical hardware    | Virtualized resources      |
@@ -37,3 +37,16 @@ Table 1-2. Ways of working in the Iron Age and the Cloud Age
 
 ![The path from the Iron Age to the Cloud Age](./Chap-01-assets/Figure-1-1.png)
 Figure 1-1. The path from the Iron Age to the Cloud Age
+
+- The period when cloud technology has been shifting from the periphery of business to the center can be called the **Age of Sprawl**.
+
+- Larger organizations typically have multiple, disconnected teams building platforms using various technologies, multiple cloud Vendors, and varying levels of maturity and quality.
+
+- The variety of options available for building digital infrastructure and platforms and the rapid pace of change within them have made it difficult to keep up to date. Platforms built on the latest 
+technology two years ago may have already be legacy.
+
+- Not only do we need to be choosy about which new systems and initiatives to invest in, but we also need to consider how to manage the cost of running and evolving what we already have in place.
+
+- Instead, organizations need to find sustainable ways to grow and evolve. Call it the Age of Sustainable Growth
+
+- What does this have to do with Infrastructure as Code ? Those involve in **designing** and **building** the foundational layers of our oganizations business systemss must be aware of the **strategic drivers** those foundations must support. A key driver is rationalizing systems to sustain growth with less waste.
