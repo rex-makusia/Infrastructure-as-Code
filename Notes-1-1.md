@@ -19,7 +19,7 @@ Table 1-1. Technology changes in the Cloud Age
 |                      | Iron Age             | Cloud Age                  |
 |:-------------------- |:---------------------|:---------------------------|
 | Types of resources   | Physical hardware    | Virtualized resources      |
-| Types of resources   | Takes days or weeks  | Take minutes or seconds    |
+| Provisioning         | Takes days or weeks  | Take minutes or seconds    |
 | Processes            | Manual(runbook)      | Virtualized resources      |
 |                      |                      |                            |
 
