@@ -50,4 +50,4 @@ technology two years ago may have already be legacy.
 
 - Instead, organizations need to find sustainable ways to grow and evolve. Call it the Age of Sustainable Growth
 
-- What does this have to do with Infrastructure as Code ? Those involve in **designing** and **building** the foundational layers of our oganizations business systemss must be aware of the **strategic drivers** those foundations must support. A key driver is rationalizing systems to sustain growth with less waste.
+- What does this have to do with Infrastructure as Code ? Those involve in **designing** and **building** the foundational layers of our oganizations business systems must be aware of the **strategic drivers** those foundations must support. A key driver is rationalizing systems to sustain growth with less waste.
