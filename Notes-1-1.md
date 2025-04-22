@@ -51,6 +51,7 @@ that embraces continual change to achieve high reliability and quality.
 - The mantra of the Shadow Age ws "move fast and break things." People saw casting aside the shackles of Iro Age governance as the key to explosive growth. In the view of digital  hipsters, it was time to leave the crusty old-times to change advisory board (CAB) meetings, mainframes, and bankruptcies
 
 ![The path from the Iron Age to the Cloud Age](./Chap-01-assets/Figure-1-1.png)
+
 Figure 1-1. The path from the Iron Age to the Cloud Age
 
 - The period when cloud technology has been shifting from the periphery of business to the center can be called the **Age of Sprawl**.
@@ -73,4 +74,5 @@ technology two years ago may have already be legacy.
 - Customer value should drive the organization's strategy, which then drives stragegy to infrastructure via product and technology strategy. Each strategic layer supports the layers above it.
 
 ![Figure 1-2. Customer value driving strategy down to infrastructure](./Chap-01-assets/Figure-1-2.jpg)
+
 Figure 1-2.  Customer value driving strategy down to infrastructure
