@@ -72,4 +72,5 @@ technology two years ago may have already be legacy.
 ### Strategic Goals and Infrastructure as Code
 - Customer value should drive the organization's strategy, which then drives stragegy to infrastructure via product and technology strategy. Each strategic layer supports the layers above it.
 
-![Figure 1-2. Customer value driving strategy down to infrastructure](./Chap-01-assets/Figure-1-2.jpg)s
+![Figure 1-2. Customer value driving strategy down to infrastructure](./Chap-01-assets/Figure-1-2.jpg)
+Figure 1-2.  Customer value driving strategy down to infrastructure
