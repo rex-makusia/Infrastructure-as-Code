@@ -23,6 +23,11 @@ Table 1-1. Technology changes in the Cloud Age
 | Processes            | Manual(runbook)      | Virtualized resources      |
 |                      |                      |                            |
 
+### Cloud Age Approaches to Change Management
+- The emergence of Cloud Age technologies has coincided with the growth of Cloud Age approaches to work, inlcuding Lean, Agile and DevOps. These approaches encourage close collaboration across roles, short feedback loops with users,
+and a minimalist, quality-first approach to technical implementation. Automation  fundamentally shifts thinking about
+change and risks, resulting in faster delivery and higher quality.
+
 Table 1-2. Ways of working in the Iron Age and the Cloud Age
 |                                |            Iron Age                      |           Cloud Age                |
 |:-------------------------------|:-----------------------------------------|:-----------------------------------|
@@ -34,7 +39,18 @@ Table 1-2. Ways of working in the Iron Age and the Cloud Age
 | Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |
 |                                |                                          |                                    |
 
+- Another Definition of ***Infrastructure as Code*** is a Cloud Age approach to automating cloud infrastructure in a way
+that embraces continual change to achieve high reliability and quality.
+
+### DevOps and Infrastructure as Code
+
 - **DevOps** is, first and foremost, about people,culture and ways of working. Tools and practices like Infrastructure as Code are vaiablue to the extent that they bridge gaps and improve collaboration, but they aren't enough.
+
+### The Path to the Cloud Age
+
+- The mid-2010s could be considered the Shadow Age of IT. The Cloud, DevOps, continuos delivery, and Infrastructure as Code were mainly used by startups or skunkworks digital departments or larger organizations. These departments were usually set up outside the remit of the organization, partly to protect them from organization's cultural norms and formal policies, which people sometimes called "antibodies".
+
+- The mantra of the Shadow Age ws "move fast and break things." People saw casting aside the shackles of Iro Age governance as the key to explosive growth. In the view of digital  hipsters, it was time to leave the crusty old-times to change advisory board (CAB) meetings, mainframes, and bankruptcies
 
 ![The path from the Iron Age to the Cloud Age](./Chap-01-assets/Figure-1-1.png)
 Figure 1-1. The path from the Iron Age to the Cloud Age
@@ -51,3 +67,11 @@ technology two years ago may have already be legacy.
 - Instead, organizations need to find sustainable ways to grow and evolve. Call it the Age of Sustainable Growth
 
 - What does this have to do with Infrastructure as Code ? Those involve in **designing** and **building** the foundational layers of our oganizations business systems must be aware of the **strategic drivers** those foundations must support. A key driver is rationalizing systems to sustain growth with less waste.
+
+### The Future Is Not Evenly Distributed
+- Many people and organizations have experienced the trends it describes. However, none of this "ages" have ended entirely, and many drivers of different ways of working are still valid. It's essential to recognize that context differ. A Silicon Valley startup has different needs and constraints than a transnational financial institution.
+
+### Strategic Goals and Infrastructure as Code
+- Customer value should drive the organization's strategy, which then drives stragegy to infrastructure via product and technology strategy. Each strategic layer supports the layers above it.
+
+![Figure 1-2. Customer value driving strategy down to infrastructure](./Chap-01-assets/Figure-1-2.jpg)s
