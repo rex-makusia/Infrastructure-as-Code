@@ -21,7 +21,6 @@ Table 1-1. Technology changes in the Cloud Age
 | Types of resources   | Physical hardware    | Virtualized resources      |
 | Provisioning         | Takes days or weeks  | Take minutes or seconds    |
 | Processes            | Manual(runbook)      | Virtualized resources      |
-|                      |                      |                            |
 
 ### Cloud Age Approaches to Change Management
 - The emergence of Cloud Age technologies has coincided with the growth of Cloud Age approaches to work, inlcuding Lean, Agile and DevOps. These approaches encourage close collaboration across roles, short feedback loops with users,
@@ -36,8 +35,7 @@ Table 1-2. Ways of working in the Iron Age and the Cloud Age
 | A change of plan means         | Failure of planning                      | Success in learning and improving  |
 | Optimize to                    | Reduced opportunities to failed          | Maximize speed of improvement      |
 | Delivery approach              | Large batches, test at end               | Small changes, test continually    |
-| Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |
-|                                |                                          |                                    |
+| Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |s
 
 - Another Definition of ***Infrastructure as Code*** is a Cloud Age approach to automating cloud infrastructure in a way
 that embraces continual change to achieve high reliability and quality.
