@@ -35,7 +35,7 @@ Table 1-2. Ways of working in the Iron Age and the Cloud Age
 | A change of plan means         | Failure of planning                      | Success in learning and improving  |
 | Optimize to                    | Reduced opportunities to failed          | Maximize speed of improvement      |
 | Delivery approach              | Large batches, test at end               | Small changes, test continually    |
-| Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |s
+| Archiectures                   | Monolithic (fewer, larger moving parts)  | Microservices(more, smaller parts) |
 
 - Another Definition of ***Infrastructure as Code*** is a Cloud Age approach to automating cloud infrastructure in a way
 that embraces continual change to achieve high reliability and quality.
@@ -76,3 +76,19 @@ technology two years ago may have already be legacy.
 ![Figure 1-2. Customer value driving strategy down to infrastructure](./Chap-01-assets/Figure-1-2.jpg)
 
 Figure 1-2.  Customer value driving strategy down to infrastructure
+- Even when their infrastructure architecture creates problems with growhth, stability, or security, the instinct is to demand a quick fix and move on.
+
+- Table 1-3. How Infrastructure as Code is relevant to an organization's strategic goals
+  
+|          Business goal                    |        Infrastructure capabilities           |          Measures of success              |
+|:------------------------------------------|:---------------------------------------------|:------------------------------------------|
+| Deliver increasing value to customers     | Provide infrastructure needed to develop,    | High performance on the four key metrics. |
+| quickly and reliably through new products | test, and host new and existing digital      | Low effort and dependency on platform and |
+| features.                                 | services.                                    | infrastructure teams for common software  |
+|                                           |                                              | delivery use cases.                       |
+
+### System Architecture Goals Infrastructure as Code
+
+![The path from the Iron Age to the Cloud Age](./Chap-01-assets/Figure-1-3.png)
+
+Figure 1-3.  Example of infrastructure goals driven by organization goals.
